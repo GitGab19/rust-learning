@@ -7,7 +7,7 @@ fn main() {
     
     let weight: f32 = input.trim().parse().unwrap(); 
     let mars_weight= calculate_weight_on_moon(weight);
-    println!("Weight on to the Moon is {} kg",mars_weight);
+    println!("Your weight on to the Moon is {} kg",mars_weight);
 }
 
 fn calculate_weight_on_moon(weight: f32) -> f32 {
