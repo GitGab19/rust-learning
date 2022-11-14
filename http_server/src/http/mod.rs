@@ -7,3 +7,5 @@ pub use response::Response;
 pub mod method;
 pub mod response;
 pub mod query_string;
+pub mod status_code;
+pub use status_code::StatusCode;
