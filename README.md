@@ -1,4 +1,4 @@
-# Rust Learning <img align="top" src="https://brandslogos.com/wp-content/uploads/images/large/rust-logo.png" width="50" height="50"> 
+# Rust Learning <img align="top" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Original_Ferris.svg/1024px-Original_Ferris.png" width="75"> 
 This repo is focused on learning Rust through any kind of practical projects development.
 
 ## moon_weight_computation <img align="top" src="https://www.transparentpng.com/thumb/moon/vndtNa-moon-making-closest-pass-earth-since-intellihub.png" width="25" height="25">
